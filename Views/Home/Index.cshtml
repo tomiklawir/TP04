@@ -6,7 +6,8 @@
 <div>
     <h1>Index</h1>
     <p>Bienvenidos al sitio web de NombreProyecto</p>
-    <p>@Url.Action("Index")</p>
+    <p></p>
+    <a href='@Url.Action("SelectPaquete")'> ACA</a>
     @foreach(string ciudad in ViewBag.Paquetes.Keys)
     {
         <p>Aerolinea: @ViewBag.Paquetes[ciudad].Aereos</p>

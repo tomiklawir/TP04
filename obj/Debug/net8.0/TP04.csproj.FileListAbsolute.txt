@@ -26,3 +26,4 @@ Z:\ORT\4ID\Prog\TP04\obj\Debug\net8.0\refint\TP04.dll
 Z:\ORT\4ID\Prog\TP04\obj\Debug\net8.0\TP04.pdb
 Z:\ORT\4ID\Prog\TP04\obj\Debug\net8.0\TP04.genruntimeconfig.cache
 Z:\ORT\4ID\Prog\TP04\obj\Debug\net8.0\ref\TP04.dll
+Z:\ORT\4ID\Prog\TP04\obj\Debug\net8.0\TP04.sourcelink.json
