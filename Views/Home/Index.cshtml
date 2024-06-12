@@ -3,16 +3,16 @@
 }
 
 
-<div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
-    <p></p>
-    <a href='@Url.Action("SelectPaquete")'> ACA</a>
+<body>
+    <h1>Creando Paquetes</h1>
+    <p>Bienvenidos al sitio web de paquetes turisticos</p>
+    <a href='@Url.Action("SelectPaquete")'> +INFO</a>
     @foreach(string ciudad in ViewBag.Paquetes.Keys)
     {
         <p>Aerolinea: @ViewBag.Paquetes[ciudad].Aereos</p>
         <p>Hoteles: @ViewBag.Paquetes[ciudad].Hoteles</p>
         <p>Excursiones: @ViewBag.Paquetes[ciudad].Excursiones</p>
     }
-</div>
+</body>
+
 

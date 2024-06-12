@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y+XPsRSkL2w8dZ2r7ykqqxGzMm1oFL9ZuIbVwep/w58=",
+  "Hash": "BoMd3R9FTN5w9ybmdEcx+FXE3XfY9+6vS+aijRpuA/g=",
   "Source": "TP04",
   "BasePath": "_content/TP04",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP04\\wwwroot",
       "Source": "TP04",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\css\\site.css",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\favicon.ico",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\alpes suizos.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\alpes suizos.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/alpes suizos.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\alpes suizos.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\american airlines.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\american airlines.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/american airlines.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\american airlines.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\Bamboo-bote.jpeg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\Bamboo-bote.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Bamboo-bote.jpeg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Bamboo-bote.jpeg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\bernabeu-paseo.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\bernabeu-paseo.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/bernabeu-paseo.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bernabeu-paseo.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\bicis.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\bicis.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/bicis.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bicis.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\bosforo.jpeg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\bosforo.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/bosforo.jpeg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bosforo.jpeg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\cristo redentor.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\cristo redentor.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/cristo redentor.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cristo redentor.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\eilat royal beach.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\eilat royal beach.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/eilat royal beach.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\eilat royal beach.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\eurostars-madrid-tower.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\eurostars-madrid-tower.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/eurostars-madrid-tower.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\eurostars-madrid-tower.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\hilton copacabana.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\hilton copacabana.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/hilton copacabana.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hilton copacabana.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\intercontinental.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\intercontinental.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/intercontinental.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\intercontinental.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\jamaica-hotel.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\jamaica-hotel.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/jamaica-hotel.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jamaica-hotel.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\latam.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\latam.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/latam.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latam.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\le narcisse.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\le narcisse.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/le narcisse.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\le narcisse.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\louvre.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\louvre.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/louvre.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\louvre.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\maldivas.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\maldivas.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/maldivas.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\maldivas.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\nueva york.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\nueva york.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/nueva york.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\nueva york.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\paseo.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\paseo.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/paseo.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\paseo.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\playa maldivas.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\playa maldivas.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/playa maldivas.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\playa maldivas.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\safari.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\safari.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/safari.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\safari.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\ski.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\ski.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/ski.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ski.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\img\\the palace.jpg",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\img\\the palace.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/the palace.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\the palace.jpg"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\js\\site.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\ORT\\4ID\\Prog\\TP04\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\carok\\Desktop\\Tomi\\TP04\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

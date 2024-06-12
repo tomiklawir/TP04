@@ -5,19 +5,19 @@
     <input type = "number" max = 10 min = 1 step = 1 >
 
     @for(int y = 1; y <= ORTWorld.ListaHoteles.Count; y++){
-        <img src="~/img/@(ORTWorld.ListaHoteles[y - 1]).jpg" >
+        <img src="~/img/@(ORTWorld.ListaHoteles[y - 1]).jpg">
     }
     <input type = "number" max = 10 min = 1 step = 1 >
 
-    @for(int x = 1; x <= 10; x++){
+    @for(int x = 1; x <= ORTWorld.ListaAereos.Count; x++){
         <img src="~/img/@(ORTWorld.ListaAereos[x - 1]).jpg" >
     }
     <input type = "number" max = 10 min = 1 step = 1 >
 
-    @for(int r = 1; r <= 10; r++){
-        <img src="~/img/@(ORTWorld.ListaAereos[r - 1]).jpg" >
+    @for(int r = 1; r <= ORTWorld.ListaExcursiones.Count; r++){
+        <img src="~/img/@(ORTWorld.ListaExcursiones[r - 1]).jpg" >
     }
     <input type = "number" max = 10 min = 1 step = 1 >
     
     <input type = "submit" value = "Enviar" Action = 'Url.Action("GuardarPaquete")' >
-</form>
+</form> 
